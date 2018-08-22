@@ -11,7 +11,7 @@ from ranger.gui.color import (
 )
 
 
-class Dracula(ColorScheme):
+class Rougarou(ColorScheme):
     progress_bar_color = 13
 
     def use(self, context):  # pylint: disable=too-many-branches,too-many-statements
